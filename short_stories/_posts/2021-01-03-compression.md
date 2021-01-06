@@ -12,15 +12,15 @@ me.
 
 ---
 
-I have a friend, Reginald.  Not Reggie or Reg, he likes all the
+I have a friend, Reginald.  Not Reggie or Reg.  He likes all the
 syllables.  He was really into speedrunning when we were in college.
 Still is, I guess, but he has a kid now and that hobby is a bottomless
 time-pit.  Anyway, the story starts when I was over at his place for a
-barbecue.  It was mostly Angie's friends -- Angie's his wife -- so
-Reginald had shown up for a few minutes at the start to shake hands,
-then disappeared.
+barbecue.  It was mostly Angie's friends there -- Angie's his wife --
+so Reginald had shown up for a few minutes at the start to shake
+hands, then disappeared.
 
-I found him in his home "office", which was really just a private room
+I found him in his home "office".  It was really just a private room
 with a computer and a door that closed, which also mean it was his
 gaming setup these days.  He was playing one of the new neural-net
 open world games.  AI Dungeon 3D Returns: Founder's Edition or some
@@ -32,10 +32,10 @@ a rickety system of hacks, taking the newest one, and saying "what if
 it was all this *one* rickety hack?".
 
 NVIDIA has been shipping neural-net based graphics upsampling for
-years now, so games could render at low resolutions on consumer
-laptops and have the world look amazing on 8K TVs.  Developers have
-been using neural nets for dialogue generation, enemy AI, and
-sometimes even procedural world generation if the map is big enough.
+years now, so games can render at low resolutions and have the world
+look amazing on 8K screens.  Developers have been using neural nets
+for dialogue generation, enemy AI, and sometimes even procedural world
+generation if the map is big enough.
 
 If you're using a neural net to generate a map, rendering that map to
 a shitty 3D model, doing an even shittier rasterizing step, and then
@@ -47,7 +47,7 @@ and magic system and whatnot, are still written by hand.  Easier to
 iterate that way, and games have to actually be fun.  But the NPCs,
 the graphics, the audio, and even some of the more complicated stuff
 like physics interactions are all just deep stacks of matrices
-multiplying their hearts out.
+multiplying their little hearts out.
 
 But anyway.  Reginald was playing this game, but he wasn't really
 *playing* it.  He had the game open on one screen, and a paused video
@@ -66,10 +66,11 @@ there.  Eventually, he got it: he clipped at the right angle or had
 the camera looking at the right texture or whatever.  I guess this
 game didn't have textures, but he booped whatever widget it had into
 the right configuration.  The game freaked out for a second, the
-little girl behind him warping into an elaborate fleshy sword.  Some
-games look creepier than others when you make them glitch, but this
-one was something special.  The girl-sword fell to the ground, streams
-of lumpy flesh rolling off of it like vapor.  I made a noise,
+little girl behind him warping into an elaborate fleshy sword.
+
+Some games look creepier than others when you make them glitch, but
+this one was something special.  The girl-sword fell to the ground,
+streams of lumpy flesh rolling off of it like vapor.  I made a noise,
 involuntarily, and Reginald looked up.
 
 We'd known each other long enough he didn't even say hello.  "Come
@@ -78,18 +79,18 @@ I walked over, putting my hands on the back of his chair and watching
 the screen.
 
 "You can use this rock to munge two object vectors," he said.  His
-character walked over an picked up the girl-sword.  The flesh-vapor
+character walked over and picked up the girl-sword.  The flesh-vapor
 continued to roll off of it.  Reginald winced at a sound in his
 earbuds that I couldn't hear, turning down his volume.  "It screams,"
 he said.  "Dope."
 
 "Why the hell did they put that in the game?" I asked.
 
-"They didnt."
+"They didn't."
 
 "Is it a mod?"
 
-"No, man.  It's like--"  He held up his hand, rotating them slowly as
+"No, man.  It's like--" He held up his hands, rotating them slowly as
 he tried to figure out how to explain it.  "Imagine in, like, doom, if
 you managed to mash two models together.  Like, a health pack and the
 shotgun.  What'd you get?"
@@ -130,25 +131,25 @@ We might get a sequence break."
 "How do you get the game to mash stuff together?  Like, why can it
 even do that?"
 
-"I dunno, man.  This guy Nascento37 figured it out.  Some shit with
+"I dunno, man.  This guy Nascento37 figured it out.  Some trick with
 NaNs causing an operation to abort and leave memory uninitialized.  It
 doesn't really matter."
 
 Reginald tabbed out to a text doc and started to write down what he'd
 done.  He was clearly busy, so I clapped him on the shoulder and
-wandered out to get more pulled pork.
+wandered away.
 
 ---
 
 That's the story.  Yup, that's all of it.  Perfectly normal, right?
 I'm not sure why it sticks with me.
 
-Maybe it's just me.  You see, when I was a little kid I thought magic
-might be real.  Not in a "woo" sense, in a "these people on the
-Internet say that putting corn in a mason jar and doing a bunch of
-really specific shit can give someone you don't like a headache"
-sense.  I was young, I didn't really have a good model of the world,
-so it sounded pretty plausible, you know?
+I have a theory though.  When I was a little kid I thought magic might
+be real.  Not in a "woo" sense, in a "these people on the Internet say
+that putting corn in a mason jar and doing a bunch of really specific
+shit can give someone you don't like a headache" sense.  I was young,
+I didn't really have a good model of the world, so it sounded pretty
+plausible, you know?
 
 It never worked of course.  Not even once.  Even confimation bias
 couldn't overcome the sheer magnitude of how much it didn't fucking
@@ -165,8 +166,8 @@ that speedruns which used code manipulation look a lot like magic.  If
 you have ten minutes, go watch the exit code injection speedrun for
 Super Mario World.  It looks like fucking witchcraft.
 
-But the result of those sorts of code manipulation speedruns always
-look like video game glitches.  You warp to a different screen or
-something.  In these new games, it looks like magic.  *Real* magic.
+But the results when I was younger always looked like video game
+glitches.  You'd warp to a different screen or something.  In these
+new games, it looks like magic.  *Real* magic.
 
-Which shouldn't matter at all.  But I can't stop thinking about i.
+Which doesn't matter at all.  But I can't stop thinking about it.
