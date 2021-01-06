@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Compression is Abstraction"
+title: Compression is Abstraction
 ---
 
 My brain does this weird thing sometimes.  I'll be minding my own
