@@ -1,19 +1,14 @@
 ---
 layout: post
-title: "Compression is Abstraction"
+title: Compression is Abstraction
 ---
 
-My brain does this weird thing sometimes.  I'll be minding my own
-business, and then I'll see something perfectly normal.  That's not
-the weird part.  The weird part is I'll see some ordinary everyday
-thing, and it'll leap out at me and burn itself into my memory.  Like
-that condition where soldiers can see bombs dropping when they close
-their eyes, except it'll be some stupid everyday shit, like a mom and
-kid sitting on a park bench staring at their phones instead of each
-other.
-
-So I'll just tell you now that the rest of this story is perfectly
-fucking normal.  But it stuck with me.
+My brain does this weird thing sometimes.  I'll see something
+perfectly normal.  It'll be some stupid everyday shit, like two people
+on a date both staring at their phones.  And then, for some reason, I
+won't be able to stop thinking about it.  I'll just tell you now that
+the rest of this story is perfectly fucking normal.  But it stuck with
+me.
 
 ---
 
