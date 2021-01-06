@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Compression is Abstraction"
+---
+
 My brain does this weird thing sometimes.  I'll be minding my own
 business, and then I'll see something perfectly normal.  That's not
 the weird part.  The weird part is I'll see some ordinary everyday
