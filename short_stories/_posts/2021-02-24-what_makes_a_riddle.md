@@ -3,9 +3,9 @@ layout: post
 title: What Makes A Riddle?
 ---
 
-Leopold squeezed sideways through another narrow stone gap.
-Fortunately he'd lost a little weight these last few days.  There
-wasn't much to eat atop Mt. Icehollow.
+Leopold squeezed sideways through a narrow stone gap.  Fortunately
+he'd lost a little weight these last few days.  There wasn't much to
+eat atop Mt. Icehollow.
 
 He made it through at the cost of a few buttons from his doublet.
 They clattered to the floor, rolling off in all directions.  A small
@@ -192,9 +192,13 @@ Leopold nodded as if this made all the sense in the world.  "I accept."
 cleared its throat, the sound like an avalanche.
 
 > I have an eye but cannot blink,
+>
 > Cannot glance and cannot stare,
+>
 > To clothe you all I rise and sink,
+>
 > But I myself am naked and bare.
+>
 > What am I?
 
 Leopold nodded again, stroking his chin and repeating the words over
