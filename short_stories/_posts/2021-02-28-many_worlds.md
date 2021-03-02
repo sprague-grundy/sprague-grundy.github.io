@@ -295,9 +295,9 @@ Flip T -> Guess T
 
 FLIPS GUESSES SUCCESS PAYOFF
 H H   H H     1 1     1
-H T   T H     0 0     0
-T H   H T     0 0     1
-T T   T T     1 1     0
+H T   H T     0 0     0
+T H   T H     0 0     0
+T T   T T     1 1     1
 ```
 
 The two men were always both right, or both wrong.  If he compared it
