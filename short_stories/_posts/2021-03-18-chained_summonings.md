@@ -47,7 +47,7 @@ voice quieter but no less painful to the ear.  "I AM NO HEALER, DOOMED
 ONE."
 
 The king wrinkled his nose.  "I am aware.  You weren't exactly our
-first choice.  But you are the most powerful creature being of in our
+first choice.  But you are the most powerful being written of in our
 archives.  And so here we are.  My wizard assures me the spell is
 binding.  You cannot return until my task is fulfilled."
 
