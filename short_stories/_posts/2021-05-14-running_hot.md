@@ -7,22 +7,22 @@ On old earth, humans worried a lot about the speed of light.  It just
 seemed so unfair.  An entire universe to explore, and we'd never reach
 more than a few systems in a human lifetime.
 
-Even after the upload, which put an end to lifespan concerns, it
-seemed like communication over long distances would be impractical.
-Traveling a thousand light years away would mean never speaking to
-anyone except your fellow explorers, ever again.
+The upload put an end to lifespan concerns.  But even then, it seemed
+like communication over long distances would be impractical.
+Traveling a thousand light years away meant never speaking to anyone
+but your fellow explorers, ever again.
 
-On a civilizational level, spreading that far would mean human culture
-would fracture and dissolve.  We'd be an archipelago of countless
-small islands, more foreign to each other than ancient Mesopotamia to
-modern New York.  Scientific progress would continue, but we'd reach
-the end of log-population scaling.  We'd advance at whatever rate a
-single communication bubble could support.
+On a civilizational level, spreading that far would cause human
+culture to fracture.  We'd be an archipelago of countless small
+islands, more foreign to each other than ancient Mesopotamia to modern
+New York.  Scientific progress would continue.  But we'd reach the end
+of log-population scaling.  We'd advance at whatever rate a single
+communication bubble could support.
 
 An old earth politician by the name of Calvin Coolidge used to say
 that if you see ten troubles coming down the road, you can be sure
 that nine will run into the ditch before they reach you.  In the case
-of speed-of-light toubles, it was more like the ditch reared up from
+of speed-of-light troubles, it was more like the ditch reared up from
 the ground and swalled them whole.
 
 Why?  How?  Let me tell you a few interesting things about the
