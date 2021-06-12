@@ -1,0 +1,96 @@
+{
+    'webnovels': {
+        'hpmor': {
+            'name': 'Harry Potter and the Methods of Rationality',
+            'link': 'https://www.hpmor.com/chapter/1',
+            'q': 4,
+            'r': 5,
+            'u': 5,
+            'rec': true,
+        },
+        'mol': {
+            'name': 'Mother of Learning',
+            'link': 'https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301778/1-good-morning-brother',
+            'q': 4,
+            'r': 3,
+            'u': 4,
+            'rec': true,
+        },
+        'worm': {
+            'name': 'Worm',
+            'link': 'https://parahumans.wordpress.com/2011/06/11/1-1/',
+            'q': 5,
+            'r': 3,
+            'u': 5,
+            'rec': true,
+        },
+        'ward': {
+            'name': 'Ward',
+            'link': 'https://www.parahumans.net/2017/09/11/daybreak-1-1/',
+            'note': 'Sequel to Worm, read that first.',
+            'q': 4,
+            'r': 3,
+            'u': 5,
+        },
+        'twig': {
+            'name': 'Twig',
+            'link': 'https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/',
+            'q': 4,
+            'r': 3,
+            'u': 5,
+        },
+        'pact': {
+            'name': 'Pact',
+            'link': 'https://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/',
+            'q': 4,
+            'r': 1,
+            'u': 5,
+        },
+        'wtc': {
+            'name': 'Worth the Candle',
+            'link': 'https://www.royalroad.com/fiction/25137/worth-the-candle',
+            'q': 3,
+            'r': 5,
+            'u': 5,
+            'rec': true,
+            'unfinished': true,
+        },
+        'boc': {
+            'name': 'Beware of Chicken',
+            'link': 'https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614481/chapter-1-he-bravely-turned-his-tail-and-fled',
+            'q': 4,
+            'r': 2,
+            'u': 5,
+            'rec': true,
+            'unfinished': true,
+        },
+        'super_minion': {
+            'name': 'Super Minion',
+            'link': 'https://www.royalroad.com/fiction/21410/super-minion/chapter/303435/ch1-taste-test',
+            'q': 2,
+            'r': 2,
+            'u': 3,
+            'unfinished': true,
+        },
+        'vtd': {
+            'name': 'Vainqueur The Dragon',
+            'link': 'https://www.royalroad.com/fiction/26534/vainqueur-the-dragon/chapter/391208/1-vainqueur-the-dragon',
+            'q': 3,
+            'r': 1,
+            'u': 3,
+            'unfinished': true,
+        },
+        'vigor_mortis': {
+            'name': 'Vigor Mortis',
+            'link': 'https://www.royalroad.com/fiction/40373/vigor-mortis/chapter/630602/1-wavering-souls',
+            'q': 4,
+            'r': 1,
+            'u': 2,
+            'unfinished': true,
+        },
+    }
+    'novels': [
+    ]
+    'short_stories': [
+    ]
+}
