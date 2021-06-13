@@ -3,10 +3,11 @@
         'hpmor': {
             'name': 'Harry Potter and the Methods of Rationality',
             'link': 'https://www.hpmor.com/chapter/1',
+            'note': 'Has its own fanfiction, most notably Significant Digits.'
             'q': 4,
             'r': 5,
             'u': 5,
-            'rec': true,
+            'tags': ['rec', 'fanfic']
         },
         'mol': {
             'name': 'Mother of Learning',
@@ -14,7 +15,7 @@
             'q': 4,
             'r': 3,
             'u': 4,
-            'rec': true,
+            'tags': ['rec', 'timeloop']
         },
         'worm': {
             'name': 'Worm',
@@ -22,7 +23,7 @@
             'q': 5,
             'r': 3,
             'u': 5,
-            'rec': true,
+            'tags': ['rec']
         },
         'ward': {
             'name': 'Ward',
@@ -30,21 +31,21 @@
             'note': 'Sequel to Worm, read that first.',
             'q': 4,
             'r': 3,
-            'u': 5,
+            'u': 5
         },
         'twig': {
             'name': 'Twig',
             'link': 'https://twigserial.wordpress.com/2014/12/24/taking-root-1-1/',
             'q': 4,
             'r': 3,
-            'u': 5,
+            'u': 5
         },
         'pact': {
             'name': 'Pact',
             'link': 'https://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/',
             'q': 4,
             'r': 1,
-            'u': 5,
+            'u': 5
         },
         'wtc': {
             'name': 'Worth the Candle',
@@ -52,8 +53,7 @@
             'q': 3,
             'r': 5,
             'u': 5,
-            'rec': true,
-            'unfinished': true,
+            'tags': ['unfinished', 'rec']
         },
         'boc': {
             'name': 'Beware of Chicken',
@@ -61,8 +61,7 @@
             'q': 4,
             'r': 2,
             'u': 5,
-            'rec': true,
-            'unfinished': true,
+            'tags': ['unfinished', 'humor', 'rec', 'genre_savvy']
         },
         'super_minion': {
             'name': 'Super Minion',
@@ -70,7 +69,7 @@
             'q': 2,
             'r': 2,
             'u': 3,
-            'unfinished': true,
+            'tags': ['unfinished']
         },
         'vtd': {
             'name': 'Vainqueur The Dragon',
@@ -78,7 +77,7 @@
             'q': 3,
             'r': 1,
             'u': 3,
-            'unfinished': true,
+            'tags': ['unfinished', 'humor', 'litrpg']
         },
         'vigor_mortis': {
             'name': 'Vigor Mortis',
@@ -86,11 +85,274 @@
             'q': 4,
             'r': 1,
             'u': 2,
-            'unfinished': true,
+            'tags': ['unfinished']
         },
-    }
-    'novels': [
+        'dcc': {
+            'name': 'Dungeon Crawler Carl',
+            'link': 'https://www.royalroad.com/fiction/29358/dungeon-crawler-carl-book-4-the-gate-of-the-feral/chapter/442507/chapter-1',
+            'q': 3,
+            'r': 1,
+            'u': 2,
+            'tags': ['unfinished', 'humor', 'litrpg']
+        },
+        'fod': {
+            'name': 'Forge of Destiny',
+            'link': 'https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301255/prologue-smelting',
+            'q': 3,
+            'r': 0,
+            'u': 2,
+            'tags': ['unfinished']
+        },
+        'aym': {
+            'name': 'Arroant Young Master Template A Variation 4',
+            'link': 'https://www.royalroad.com/fiction/28601/arrogant-young-master-template-a-variation-4/chapter/428236/1-transmigration',
+            'q': 2,
+            'r': 3,
+            'u': 5,
+            'tags': ['unfinished', 'humor', 'genre_savvy']
+        },
+        'ptge': {
+            'name': 'A Practical Guide to Evil',
+            'link': 'https://practicalguidetoevil.wordpress.com/2015/04/01/chapter-1-knife/',
+            'q': 4,
+            'r': 2,
+            'u': 4,
+            'tags': ['unfinished', 'genre_savvy', 'rec']
+        },
+        'ami': {
+            'name': 'Dungeon Keeper Ami',
+            'link': 'https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/',
+            'q': 4,
+            'r': 4,
+            'u': 4,
+            'tags': ['unfinished', 'fanfic', 'rec', 'litrpg'],
+        },
+        'unsong': {
+            'name': 'Unsong',
+            'link': 'http://unsongbook.com/prologue-2/',
+            'q': 4,
+            'r': 5,
+            'u': 5,
+            'tags': ['rec'],
+        },
+        'crystal': {
+            'name': 'Crystal Society',
+            'link': 'http://crystal.raelifin.com/society/Prologue',
+            'note': 'Trilogy, first book is materially better.'
+            'q': 4,
+            'r': 4,
+            'u': 4,
+            'tags': ['rec'],
+        },
+        'mlp_fio': {
+            'name': 'Friendship is Optimal',
+            'link': 'https://www.fimfiction.net/story/62074/1/friendship-is-optimal/prologue-equestria-online',
+            'note': 'Has its own fanfiction, most notably Caelum Est Conterrens.',
+            'q': 3,
+            'r': 4,
+            'u': 3,
+            'tags': ['rec', 'fanfic'],
+        },
+        'luminosity': {
+            'name': 'Luminosity',
+            'link': 'https://luminous.elcenia.com/chapters/ch1.shtml',
+            'note': 'Has a sequel that I liked less.',
+            'q': 3,
+            'r': 5,
+            'u': 4,
+            'tags': ['fanfic']
+        },
+        'time_braid': {
+            'name': 'Time Braid',
+            'link': 'https://www.fanfiction.net/s/5193644/1/Time-Braid',
+            'q': 2,
+            'r': 3,
+            'u': 3,
+            'tags': ['fanfic', 'timeloop'],
+        },
+        'waves': {
+            'name': 'The Waves Arisen',
+            'link': 'https://wertifloke.wordpress.com/2015/01/25/chapter-1/',
+            'q': 3,
+            'r': 5,
+            'u': 3,
+            'tags': ['fanfic']
+        },
+        'origin': {
+            'name': 'Pokemon: The Origin of Species',
+            'link': 'http://daystareld.com/pokemon-1/',
+            'q': 3,
+            'r': 5,
+            'u': 4,
+            'tags': ['fanfic', 'unfinished']
+        }
+    },
+    'novels': {
+        'sam': {
+            'name': 'Sufficiently Advanced Magic',
+            'link': 'https://www.amazon.com/Sufficiently-Advanced-Magic-Arcane-Ascension-ebook/dp/B06XBFD7CB',
+            'note': 'First book in series.',
+            'q': 3,
+            'r': 3,
+            'u': 3,
+            'tags': ['litrpg']
+        },
+        'waif': {
+            'name': 'Perilous Waif',
+            'link': 'https://www.amazon.com/Perilous-Waif-Alice-Long-Book-ebook/dp/B01NBWXMP9',
+            'q': 4,
+            'r': 3,
+            'u': 5,
+            'tags': ['rec']
+        },
+        'mistborn': {
+            'name': 'Mistborn: The Final Empire',
+            'link': 'https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386',
+            'note': 'First book in trilogy.  Author is prolific if you like it.',
+            'q': 4,
+            'r': 3,
+            'u': 4,
+            'tags': ['rec']
+        },
+        'blindsight': {
+            'name': 'Blindsight',
+            'link': 'https://www.amazon.com/Blindsight-Peter-Watts/dp/0765319640',
+            'q': 4,
+            'r': 3,
+            'u': 5
+        },
+        'agirl': {
+            'name': 'A Girl Corrupted by the Internet is the Summoned Hero?!',
+            'link': 'https://www.amazon.com/Girl-Corrupted-Internet-Summoned-Hero-ebook/dp/B01B2BP726',
+            'q': 3,
+            'r': 4,
+            'u': 4,
+            'tags': ['humor']
+        },
+    },
+    'shorts': {
+        'tenure': {
+            'name': 'Professor Riddle and the Quest for Tenure',
+            'link': 'https://www.fanfiction.net/s/8706297/1/Professor-Riddle-and-the-Quest-for-Tenure',
+            'q': 4,
+            'r': 2,
+            'u': 5,
+            'tags': ['rec', 'fanfic', 'unfinished', 'abandoned', 'humor']
+        },
+        'ricktionality': {
+            'name': 'Harry Potter and the Methods of Ricktionality',
+            'link': 'https://archiveofourown.org/works/14770070/chapters/34158194',
+            'q': 4,
+            'r': 1,
+            'u': 5,
+            'tags': ['rec', 'fanfic', 'humor']
+        },
+        'metropolitan': {
+            'name': 'The Metropolitan Man',
+            'link': 'https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man',
+            'q': 2,
+            'r': 5,
+            'u': 4,
+            'tags': ['fanfic'],
+        },
+        'tlc': {
+            'name': 'The Last Christmas',
+            'link': 'https://www.fanfiction.net/s/9915682/1/The-Last-Christmas',
+            'q': 2,
+            'r': 5,
+            'u': 4,
+            'tags': ['fanfic'],
+        },
+        'twc': {
+            'name': 'Three Worlds Collide',
+            'link': 'https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1-8',
+            'q': 4,
+            'r': 5,
+            'u': 5,
+            'tags': ['rec'],
+        },
+        'dragon_tyrant': {
+            'name': 'The Fable of the Dragon Tyrant',
+            'link': 'https://www.nickbostrom.com/fable/dragon.html',
+            'q': 3,
+            'r': 5,
+            'u': 5,
+            'tags': ['rec']
+        },
+        'sword': {
+            'name': 'The Sword of Good',
+            'link': 'https://www.lesswrong.com/posts/XuLG6M7sHuenYWbfC/the-sword-of-good',
+            'q': 4,
+            'r': 5,
+            'u': 4,
+        },
+        'pills': {
+            'name': '...And I Show You How Deep the Rabbit Hole Goes',
+            'link': 'https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/',
+            'q': 4,
+            'r': 4,
+            'u': 5,
+            'tags': ['rec', 'humor'],
+        }
+    },
+    'unsorted': [
+        'the cambist and lord iron',
+        'the egg',
+        'the martian',
+        'project hail mary',
+        'Name of the Wind',
+        'the two year emperor',
+        'harry potter and the natural 20',
+        'merchant princes',
+        'neal stephenson books',
+        'the last temptation of christ',
+        'pokemon origin of species',
+        'animorphs',
+        'the study of anglophysics',
+        'it was you who made my eyes blue',
+        'a deepness in the sky',
+        'the dark wizard of donkerk',
+        'glimwarden',
+        'I dont know timmy, being god is a big responsibility',
+        'antimemetics division',
+        'ra / fine structure',
+        'asches to asches',
+        'the whispering earring',
+        'dark lords answer',
+        'color of magic',
+        'a modern myth',
+        'the girl who poked god with a stick',
+        'the need to become stronger',
+        'cenotaph',
+        'the northern caves',
+        'the witching hour',
+        'too like the lightning',
+        'the wandering inn',
+        'player of games',
+        'neuromancer',
+        'shadows of the limelight',
+        'beisutsukai',
+        'untitled superintelligences story',
+        'HFY stories',
+        'color psychology?'
+        'chili and the chocolate factory',
+        'tower (alicorn)',
+        'cordyceps',
+        'the p-zombie apocalypse',
+        'that aladdin story about wishes',
+        'enders game',
+        'how to survive death on a daily basis'
+
+        'erfworld', 'oots', 'the promised neverland', 'ultimate rock paper scissors tournament', 'fleep'
     ]
-    'short_stories': [
+    'to_read': [
+        '
+the things
+the fall of doc future
+permutation city
+the flower that bloomed nowhere
+
+
+'
     ]
 }
