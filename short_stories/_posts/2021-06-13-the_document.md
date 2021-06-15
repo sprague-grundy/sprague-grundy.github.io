@@ -20,7 +20,7 @@ toppling over into the room.
 He sprawled onto his stomach, slapping his hands into the ground like
 he'd learned back when he did fieldwork.  His arm felt like it had
 been wrenched out of its socket.  His glasses were fogged from heavy
-nbreathing in the cold air.  All he could see was two pairs of feet,
+breathing in the cold air.  All he could see was two pairs of feet,
 one in a large pair of nice dockers, the other in a pair of maroon
 heels.
 
@@ -51,12 +51,12 @@ The woman coughed.  It was like a librarian's cough.  Mitch stood a
 little straighter, turning to look at her.  She was holding out a
 slightly-wrinkly hand covered in rings.  "Barb Streiss," she said.
 Mitch shook her hand, looking her over.  She was in her 60s, maybe,
-well-dressed but a little overenthusiastic with the jewelery.  She had
+well-dressed but a little overenthusiastic with the jewelry.  She had
 horn-rim glasses and a pinched face, but her eyes were bright.
 
 "You're late," she said, turning and walking back to the table.
 
-"Erm," Mitch responded cleverly.  He wasnt sure how he could be late
+"Erm," Mitch responded cleverly.  He wasn't sure how he could be late
 when she didn't even know who he was.  Instead he turned to the other
 person in the room, a tall 20-something in a suit, with hands in his
 pockets.
@@ -122,7 +122,7 @@ the complex his entire career.  He'd been in worse scrapes.
 loci.  That's why nobody can remember us."
 
 "A real-life antimeme," Mitch mused.  "Just my luck.  I change
-departments just in time for antimemtics to finally find something."
+departments just in time for antimemetics to finally find something."
 
 Barb looked at him like he was the stupidest man in the world.
 Mitch scratched his chin.
@@ -176,7 +176,7 @@ The complex currently believes that the four of us are
 mythomemetic in nature.  Like slender man on steroids.
 
 > They think that there's a mythomeme presenting as four
-> members of the antimemetics divison that nobody
+> members of the antimemetics division that nobody
 > remembers?
 
 Yes.  The complex finds new mythomemes every day, and
@@ -253,7 +253,7 @@ memories might as well be an antimeme.
 
 Almost an hour later, Mitch looked up from his binder.  Bernie shifted
 a little in his chair, eyeing him.  "2:40," he said, checking his
-watch again.  Barb made a noise of acknowledgement.
+watch again.  Barb made a noise of acknowledgment.
 
 "The document says you should now be suspicious that we are working
 against you," she said, not taking her eyes off the papers in front of
@@ -349,7 +349,7 @@ up, and we don't see you for a few days.  You find your way back
 eventually, but we lose a lot of time, so I would prefer you not do
 this."
 
-Mitch frowned.  Why Russia?  He'd hated russia since he'd been
+Mitch frowned.  Why Russia?  He'd hated Russia since he'd been
 stationed there in 1990.  Maybe that made sense, though; it was the
 last place he would expect himself to go.  Was he really so
 ironically predictable?
@@ -364,7 +364,7 @@ the motel room he'd find something.
 
 By the time things were wrapping up, Mitch had narrowed the situation
 down to 2.5 likely possibilities.  None of those possibilities
-benefitted from being shared.  When the time came, he shook hands
+benefited from being shared.  When the time came, he shook hands
 firmly with Barb and Bernie, promised not to write himself any
 messages that sent him off to Russia, and made his ungainly escape out
 the window.
@@ -496,13 +496,13 @@ hundreds of amnesia loops -- well, they probably wanted you to work on
 that document.
 
 The men around Mitch were done with the machine.  It had a helmet that
-looked suspiciously like an upside-down collander, and too many
+looked suspiciously like an upside-down colander, and too many
 blinking lights.
 
 "One last question," Mitch said.  "How do you wipe my memory?"
 
 Bob motioned with his hand, and the men around Mitch lowered the
-collander onto his head.  Bob reached into his sport coat and produced
+col-lander onto his head.  Bob reached into his sport coat and produced
 a stack of glossy photos.
 
 "Neuronal hyperactivity.  Same mechanism as Alzheimer's, but we use
@@ -510,9 +510,9 @@ electricity.  We visually stimulate the connections we want to
 disrupt, then use this machine here to produce a microtargeted
 seizure."
 
-Bob fanned out the polaroids.  There was a picture of Barb, and
-Bernie, alongside a few others Mitch didn't recognize.  Two of the
-pictures were children.
+Bob fanned out the photos.  There was a picture of Barb,
+and Bernie, alongside a few others Mitch didn't recognize.
+Two of the pictures were children.
 
 "Don't worry," Bob said, "you're divorced.  But these are the memories
 you'll be forgetting.  The human brain is a social organ.  It likes to
