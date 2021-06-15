@@ -39,8 +39,9 @@ The drywall was a wreck, missing in some places, scraped or scratched
 or filled with holes in others.  A chair was wedged under the door
 handle of the only exit.  One corner looked to be a makeshift sleeping
 area.  There was a pile of junk in another, covered in dust.
-*Nothing* in the complex was covered in dust.  The carpet was filled
-with hair and detritus, like it hadn't been vacuumed in forever.
+*Nothing* in the complex should be covered in dust.  The carpet was
+filled with hair and detritus, like it hadn't been vacuumed in
+forever.
 
 There was a square table, with four chairs around it.  It was covered
 in messy piles of paper.  Behind it was a whiteboard that was getting
