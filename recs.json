@@ -66,9 +66,9 @@
         "super_minion": {
             "name": "Super Minion",
             "link": "https://www.royalroad.com/fiction/21410/super-minion/chapter/303435/ch1-taste-test",
-            "q": 2,
+            "q": 3,
             "r": 2,
-            "u": 3,
+            "u": 2,
             "tags": ["unfinished"]
         },
         "vtd": {
@@ -98,7 +98,7 @@
         "fod": {
             "name": "Forge of Destiny",
             "link": "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301255/prologue-smelting",
-            "q": 3,
+            "q": 4,
             "r": 0,
             "u": 2,
             "tags": ["unfinished"]
@@ -106,6 +106,7 @@
         "aym": {
             "name": "Arroant Young Master Template A Variation 4",
             "link": "https://www.royalroad.com/fiction/28601/arrogant-young-master-template-a-variation-4/chapter/428236/1-transmigration",
+            "note": "Writing is iffy, plot quality peters out partway through.",
             "q": 2,
             "r": 3,
             "u": 5,
@@ -122,7 +123,7 @@
         "ami": {
             "name": "Dungeon Keeper Ami",
             "link": "https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/",
-            "q": 4,
+            "q": 3,
             "r": 4,
             "u": 4,
             "tags": ["unfinished", "fanfic", "rec", "litrpg"],
@@ -159,7 +160,7 @@
             "note": "Has a sequel that I liked less.",
             "q": 3,
             "r": 5,
-            "u": 4,
+            "u": 3,
             "tags": ["fanfic"]
         },
         "time_braid": {
@@ -168,15 +169,23 @@
             "q": 2,
             "r": 3,
             "u": 3,
-            "tags": ["fanfic", "timeloop"],
+            "tags": ["fanfic", "timeloop"]
         },
+        "ced": {
+            "name": "Chunin Exam Day",
+            "link": "https://www.fanfiction.net/s/3929411/1/Chunin-Exam-Day",
+            "q": 2,
+            "r": 3,
+            "u"; 3,
+            "tags": ["fanfic", "timeloop"]
+        }
         "waves": {
             "name": "The Waves Arisen",
             "link": "https://wertifloke.wordpress.com/2015/01/25/chapter-1/",
             "q": 3,
             "r": 5,
             "u": 3,
-            "tags": ["fanfic"]
+            "tags": ["rec", "fanfic"]
         },
         "origin": {
             "name": "Pokemon: The Origin of Species",
@@ -185,7 +194,96 @@
             "r": 5,
             "u": 4,
             "tags": ["fanfic", "unfinished"]
-        }
+        },
+        "ttyy": {
+            "name": "The Two Year Emperor",
+            "link": "https://www.dropbox.com/s/w6279gwfusrdcsx/The_Two_Year_Emperor.zip?dl=0%EF%BB%BF",
+            "q": 2,
+            "r": 4,
+            "u": 3,
+            "tags": ["fanfic", "genre_savvy", "litrpg"]
+        },
+        "nat20": {
+            "name": "Harry Potter and the Natural 20",
+            "link": "https://www.fanfiction.net/s/8096183/1/Harry-Potter-and-the-Natural-20",
+            "q": 2,
+            "r": 3,
+            "u": 2,
+            "tags": ["fanfic", "genre_savvy", "litrpg", "unfinished"]
+        },
+        "animorphs": {
+            "name": "Animorphs: The Reckoning",
+            "link": "https://www.fanfiction.net/s/11090259/1/r-Animorphs-The-Reckoning",
+            "q": 3,
+            "r": 4,
+            "u": 3,
+            "tags": ["fanfic", "unfinished"]
+        },
+        "dark_wizard": {
+            "name": "The Dark Wizard of Donkerk",
+            "link": "http://www.alexanderwales.com/darkWizardNaNo2016.html",
+            "q": 3,
+            "r": 4,
+            "u": 3
+        },
+        "shadows": {
+            "name": "Shadows of the Limelight",
+            "link": "https://alexanderwales.com/shadows-of-the-limelight-ch-1-the-rooftop-races/",
+            "q": 4,
+            "r": 4,
+            "u": 4
+        },
+        "glimwarden": {
+            "name": "Glimwarden",
+            "link": "http://alexanderwales.com/glimwarden-prologue/",
+            "q": 4,
+            "r": 4,
+            "u": 4,
+            "tags": ["unfinished", "abandoned"]
+        },
+        "antimemetics": {
+            "name": "There Is No Antimemetics Division",
+            "link": "http://www.scpwiki.com/we-need-to-talk-about-fifty-five",
+            "note": "http://www.scpwiki.com/scp-055 is background reading.",
+            "q": 3,
+            "r": 5,
+            "u": 5,
+            "tags": ["rec"]
+        },
+        "ra": {
+            "name": "Ra",
+            "link": "https://qntm.org/city",
+            "q": 4,
+            "r": 3,
+            "u": 4,
+            "tags": ["rec"]
+        },
+        "cordyceps": {
+            "name": "Cordyceps",
+            "link": "https://archiveofourown.org/works/6178036/chapters/14154868",
+            "q": 3,
+            "r": 4,
+            "u": 4,
+            "tags": ["humor"]
+        },
+        "htsd": {
+            "name": "How to survive Death on a Daily Basis",
+            "link": "https://www.royalroad.com/fiction/5288/how-to-avoid-death-on-a-daily-basis/chapter/53415/1-where-are-we",
+            "note": "Plot quality peters out partway through",
+            "q": 4,
+            "r": 2,
+            "u": 3,
+            "tags": ["unfinished", "abandoned"]
+        },
+        "ellc": {
+            "name": "Everybody Loves Large Chests",
+            "link": "https://www.royalroad.com/fiction/8894/everybody-loves-large-chests/chapter/99919/prologue",
+            "note": "Fun, but lots of unnecessary sexual content.",
+            "q": 3,
+            "r": 1,
+            "u": 4,
+            "tags": ["litrpg", "humor"]
+        },
     },
     "novels": {
         "sam": {
@@ -274,14 +372,15 @@
             "link": "https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958",
             "q": 4,
             "r": 2,
-            "u": 4
+            "u": 4,
+            "tags": ["rec"]
         },
         "diamond_age": {
             "name": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
             "link": "https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966",
             "q": 4,
             "r": 2,
-            "u": 4,
+            "u": 4
         },
         "cryptonomicon": {
             "name": "Cryptonomicon",
@@ -305,6 +404,7 @@
             "q": 4,
             "r": 4,
             "u": 4
+            "tags": ["rec"]
         },
 
         "making_money": {
@@ -331,15 +431,25 @@
             "note": "Mostly interesting for historical reasons.",
             "q": 4,
             "r": 1,
-            "u": 5
+            "u": 5,
         },
         "enders": {
             "name": "Ender's Game",
-            "link": "https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706"
+            "link": "https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706",
             "q": 4,
             "r": 3,
             "u": 4,
+            "tags": ["rec"]
         },
+        "skylark": {
+            "name": "The Skylark of Space",
+            "link": "https://www.amazon.com/Skylark-Space-Science-Fiction-Adventure/dp/1603122036",
+            "note": "Mostly interesting for historical reasons.",
+            "q": 4,
+            "r": 1,
+            "u": 4,
+            "tags": ["rec"]
+        }
     },
     "shorts": {
         "tenure": {
@@ -407,6 +517,29 @@
             "q": 3,
             "r": 5,
             "u": 5,
+            "tags": ["rec"]
+        },
+        "cambist": {
+            "name": "The Cambist and Lord Iron",
+            "link": "https://www.lightspeedmagazine.com/fiction/the-cambist-and-lord-iron-a-fairy-tale-of-economics/",
+            "q": 4,
+            "r": 4,
+            "u": 4,
+            "tags": ["rec"],
+        },
+        "the_egg": {
+            "name": "The Egg",
+            "link": "http://www.galactanet.com/oneoff/theegg_mod.html",
+            "q": 4,
+            "r": 1,
+            "u": 3
+        },
+        "last_answer": {
+            "name": "The Last Answer",
+            "link": "https://www.thrivenotes.com/the-last-answer/",
+            "q": 4,
+            "r": 2,
+            "u": 4,
             "tags": ["rec"]
         }
     },
@@ -481,53 +614,49 @@
             "name": "The Vorkosigan Saga",
             "link": "https://www.amazon.com/Young-Miles-Vorkosigan-Adventures/dp/0743436164",
             "note": "Been recommended to me multiple times, on my to-read list.  Lots of stories in universe, link goes to the starting point I was recommended."
+        },
+        "stronger": {
+            "name": "The Need to Become Stronger",
+            "link": "https://www.fanfiction.net/s/12213213/1/The-Need-to-Become-Stronger",
+            "note": "Naruto fanfic, popular but I haven't read it."
+        },
+        "cenotaph": {
+            "name": "Cenotaph",
+            "link": "https://archiveofourown.org/works/1152749/chapters/2337442",
+            "note": "Worm fanfic, on my to-read list."
+        },
+        "tnc": {
+            "name": "The Northern Caves",
+            "link": "https://archiveofourown.org/works/3659997/chapters/8088522",
+            "note": "I wasn't able to finish it, cool concept but kind of slow."
         }
-    }
+    },
     "unsorted": [
-        "the cambist and lord iron",
-        "the egg",
-        "the two year emperor",
-        "harry potter and the natural 20",
         "the last temptation of christ",
-        "pokemon origin of species",
-        "animorphs",
         "the study of anglophysics",
         "it was you who made my eyes blue",
         "the dark wizard of donkerk",
-        "glimwarden",
-        "I dont know timmy, being god is a big responsibility",
-        "antimemetics division",
-        "ra",
+            "I dont know timmy, being god is a big responsibility",
         "asches to asches",
         "the whispering earring",
         "dark lords answer",
         "a modern myth",
         "the girl who poked god with a stick",
-        "the need to become stronger",
-        "cenotaph",
-        "the northern caves",
         "the witching hour",
-        "shadows of the limelight",
         "beisutsukai",
         "untitled superintelligences story",
         "HFY stories",
         "color psychology?"
-        "chili and the chocolate factory",
         "tower (alicorn)",
-        "cordyceps",
         "the p-zombie apocalypse",
         "that aladdin story about wishes",
-        "how to survive death on a daily basis",
         "heres a story about changelings",
-        "everybody loves large chests",
         "answer to Job",
-        "chunin exam day",
         "short story by octo guy",
-        "Im a spider so what",
-        "that scifi series Cat liked",
         "https://www.yudkowsky.net/other/fiction",
+        "qntm short stories",
 
-        "evil overlord list", "gwern death note thing", "eliezers thing on rational writing", "brandon sandersons thing on writing / sandersons laws",
+        "evil overlord list", "gwern death note thing", "eliezers thing on rational writing", "brandon sandersons thing on writing / sandersons laws", "distrust that particular flavor", "rationality AI to zombies"
 
     ]
     "to_read": [
@@ -551,6 +680,7 @@ fine structure
 octo
 floating point
 there is no epic loot here only puns
+chili and the chocolate factory"
 
 transdimenisonal brain chip
 all night laundry
