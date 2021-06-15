@@ -521,4 +521,4 @@ index memories by the people who were there, with a recency bias.
 Please stare very intently at these photos, as well as my face.  We're
 going to--"
 
-Bob heard a beep from the machine, and then the world went white.
+Mitch heard a beep from the machine, and then the world went white.
