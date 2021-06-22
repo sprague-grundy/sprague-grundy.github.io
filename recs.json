@@ -469,13 +469,38 @@
             "tags": ["rec", "fanfic", "humor"]
         },
 
+        "god_resp": {
+            "name": "I don't know, Timmy, being God is a big responsibility",
+            "link": "https://qntm.org/responsibility",
+            "q": 3,
+            "r": 4,
+            "u": 5,
+            "tags": ["rec"]
+        },
+        "lena": {
+            "name": "Lena",
+            "link": "https://qntm.org/mmacevedo",
+            "q": 4,
+            "r": 4,
+            "u": 5,
+            "tags": ["rec"]
+        },
+        "qntm_misc": {
+            "name": "Other qntm Stories",
+            "link": "https://qntm.org/fiction",
+            "note": "If you want more qntm stories.",
+            "q": 3,
+            "r": 2,
+            "u": 4
+        },
+
         "metropolitan": {
             "name": "The Metropolitan Man",
             "link": "https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man",
             "q": 2,
             "r": 5,
             "u": 4,
-            "tags": ["fanfic"],
+            "tags": ["fanfic"]
         },
         "tlc": {
             "name": "The Last Christmas",
@@ -483,7 +508,7 @@
             "q": 2,
             "r": 5,
             "u": 4,
-            "tags": ["fanfic"],
+            "tags": ["fanfic"]
         },
 
         "twc": {
@@ -492,13 +517,29 @@
             "q": 4,
             "r": 5,
             "u": 5,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "sword": {
             "name": "The Sword of Good",
             "link": "https://www.lesswrong.com/posts/XuLG6M7sHuenYWbfC/the-sword-of-good",
             "q": 4,
             "r": 5,
+            "u": 4
+        },
+        "beisutsukai": {
+            "name": "Beisutsukai Stories",
+            "link": "https://www.lesswrong.com/tag/beisutsukai",
+            "q": 3,
+            "r": 5,
+            "u": 4,
+            "tags": ["rec"]
+        }
+        "eliezer_misc": {
+            "name": "Other Eliezer Yudkowsky Stories",
+            "link": "https://www.yudkowsky.net/other/fiction",
+            "note": "If you want more Eliezer Yudkowsky stories, ones I like that didn't quite make the cut are 'Non-Player Character' and 'The Hero with a Thousand Chances'.",
+            "q": 4,
+            "r": 4,
             "u": 4,
         },
 
@@ -508,8 +549,51 @@
             "q": 4,
             "r": 4,
             "u": 5,
-            "tags": ["rec", "humor"],
+            "tags": ["rec", "humor"]
         },
+
+        "samsara": {
+            "name": "Samsara",
+            "link": "https://slatestarcodex.com/2019/11/04/samsara/",
+            "q": 4,
+            "r": 2,
+            "u": 5,
+            "tags": ["rec", "humor"]
+        },
+
+        "atj": {
+            "name": "Answer to Job",
+            "link": "https://slatestarcodex.com/2015/03/15/answer-to-job/",
+            "q": 4,
+            "r": 4,
+            "u": 5,
+            "tags": ["rec"]
+        },
+        "earring": {
+            "name": "The Whispering Earring",
+            "link": "http://web.archive.org/web/20121008025245/http://squid314.livejournal.com/332946.html",
+            "q": 3,
+            "r": 4,
+            "u": 4
+        },
+        "witching": {
+            "name": "The Witching Hour",
+            "link": "https://www.lesswrong.com/posts/8KHR3tfa4SJjMSkXd/the-witching-hour",
+            "q": 3,
+            "r": 3,
+            "u": 5,
+            "tags": ["rec"]
+        }
+
+        "ssc_misc": {
+            "name": "Other Scott Alexander Stories",
+            "link": "https://slatestarcodex.com/tag/fiction/",
+            "note": "If you want more Scott Alexander stories, ones I like that didn't quite make the cut are 'The Last Temptation of Christ', 'The Study of Anglophysics', and 'Asches to Asches'."
+            "q": 3,
+            "r": 3,
+            "u": 4
+        }
+
 
         "dragon_tyrant": {
             "name": "The Fable of the Dragon Tyrant",
@@ -632,29 +716,13 @@
         }
     },
     "unsorted": [
-        "the last temptation of christ",
-        "the study of anglophysics",
-        "it was you who made my eyes blue",
-        "the dark wizard of donkerk",
-            "I dont know timmy, being god is a big responsibility",
-        "asches to asches",
-        "the whispering earring",
-        "dark lords answer",
-        "a modern myth",
-        "the girl who poked god with a stick",
-        "the witching hour",
-        "beisutsukai",
         "untitled superintelligences story",
         "HFY stories",
-        "color psychology?"
         "tower (alicorn)",
         "the p-zombie apocalypse",
         "that aladdin story about wishes",
         "heres a story about changelings",
-        "answer to Job",
         "short story by octo guy",
-        "https://www.yudkowsky.net/other/fiction",
-        "qntm short stories",
 
         "evil overlord list", "gwern death note thing", "eliezers thing on rational writing", "brandon sandersons thing on writing / sandersons laws", "distrust that particular flavor", "rationality AI to zombies"
 
