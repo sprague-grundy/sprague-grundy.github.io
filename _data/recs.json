@@ -3,7 +3,7 @@
         "hpmor": {
             "name": "Harry Potter and the Methods of Rationality",
             "link": "https://www.hpmor.com/chapter/1",
-            "note": "Has its own fanfiction, most notably Significant Digits."
+            "note": "Has its own fanfiction, most notably Significant Digits.",
             "q": 4,
             "r": 5,
             "u": 5,
@@ -126,7 +126,7 @@
             "q": 3,
             "r": 4,
             "u": 4,
-            "tags": ["unfinished", "fanfic", "rec", "litrpg"],
+            "tags": ["unfinished", "fanfic", "rec", "litrpg"]
         },
         "unsong": {
             "name": "Unsong",
@@ -134,16 +134,16 @@
             "q": 4,
             "r": 5,
             "u": 5,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "crystal": {
             "name": "Crystal Society",
             "link": "http://crystal.raelifin.com/society/Prologue",
-            "note": "Trilogy, first book is materially better."
+            "note": "Trilogy, first book is materially better.",
             "q": 4,
             "r": 4,
             "u": 4,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "mlp_fio": {
             "name": "Friendship is Optimal",
@@ -152,7 +152,7 @@
             "q": 3,
             "r": 4,
             "u": 3,
-            "tags": ["rec", "fanfic"],
+            "tags": ["rec", "fanfic"]
         },
         "luminosity": {
             "name": "Luminosity",
@@ -176,9 +176,9 @@
             "link": "https://www.fanfiction.net/s/3929411/1/Chunin-Exam-Day",
             "q": 2,
             "r": 3,
-            "u"; 3,
+            "u": 3,
             "tags": ["fanfic", "timeloop"]
-        }
+        },
         "waves": {
             "name": "The Waves Arisen",
             "link": "https://wertifloke.wordpress.com/2015/01/25/chapter-1/",
@@ -283,7 +283,7 @@
             "r": 1,
             "u": 4,
             "tags": ["litrpg", "humor"]
-        },
+        }
     },
     "novels": {
         "sam": {
@@ -350,7 +350,7 @@
             "q": 5,
             "r": 3,
             "u": 5,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "merchant": {
             "name": "Merchant Princes Series",
@@ -364,7 +364,7 @@
             "link": "https://www.amazon.com/Deepness-Sky-Zones-Thought/dp/0812536355",
             "q": 3,
             "r": 2,
-            "u": 4,
+            "u": 4
         },
 
         "snow_crash": {
@@ -389,32 +389,32 @@
             "q": 4,
             "r": 4,
             "u": 5,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "anathem": {
             "name": "Anathem",
             "link": "https://www.amazon.com/Anathem-Neal-Stephenson/dp/006147410X",
             "q": 3,
             "r": 4,
-            "u": 5,
+            "u": 5
         },
         "seveneves": {
             "name": "Seveneves",
             "link": "https://www.amazon.com/Seveneves-Novel-Neal-Stephenson-ebook/dp/B00LZWV8JO",
             "q": 4,
             "r": 4,
-            "u": 4
+            "u": 4,
             "tags": ["rec"]
         },
 
         "making_money": {
             "name": "Making Money",
             "link": "https://www.amazon.com/Making-Money-Discworld-Terry-Pratchett/dp/0062334999",
-            "note": "There is a prequel, Going Postal, which can be read first.  If you like this book, there are many more Discworld novels."
+            "note": "There is a prequel, Going Postal, which can be read first.  If you like this book, there are many more Discworld novels.",
             "q": 5,
             "r": 3,
             "u": 5,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "player_of_games": {
             "name": "Player of Games",
@@ -423,7 +423,7 @@
             "q": 4,
             "r": 2,
             "u": 4,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "neuromancer": {
             "name": "Neuromancer",
@@ -431,7 +431,7 @@
             "note": "Mostly interesting for historical reasons.",
             "q": 4,
             "r": 1,
-            "u": 5,
+            "u": 5
         },
         "enders": {
             "name": "Ender's Game",
@@ -574,14 +574,14 @@
             "r": 5,
             "u": 4,
             "tags": ["rec"]
-        }
+        },
         "eliezer_misc": {
             "name": "Other Eliezer Yudkowsky Stories",
             "link": "https://www.yudkowsky.net/other/fiction",
             "note": "If you want more Eliezer Yudkowsky stories, ones I like that didn't quite make the cut are 'Non-Player Character' and 'The Hero with a Thousand Chances'.",
             "q": 4,
             "r": 4,
-            "u": 4,
+            "u": 4
         },
 
         "pills": {
@@ -624,16 +624,16 @@
             "r": 3,
             "u": 5,
             "tags": ["rec"]
-        }
+        },
 
         "ssc_misc": {
             "name": "Other Scott Alexander Stories",
             "link": "https://slatestarcodex.com/tag/fiction/",
-            "note": "If you want more Scott Alexander stories, ones I like that didn't quite make the cut are 'The Last Temptation of Christ', 'The Study of Anglophysics', and 'Asches to Asches'."
+            "note": "If you want more Scott Alexander stories, ones I like that didn't quite make the cut are 'The Last Temptation of Christ', 'The Study of Anglophysics', and 'Asches to Asches'.",
             "q": 3,
             "r": 3,
             "u": 4
-        }
+        },
 
 
         "dragon_tyrant": {
@@ -650,7 +650,7 @@
             "q": 4,
             "r": 4,
             "u": 4,
-            "tags": ["rec"],
+            "tags": ["rec"]
         },
         "the_egg": {
             "name": "The Egg",
@@ -683,7 +683,7 @@
             "q": 5,
             "r": 1,
             "u": 5,
-            "tags": ["litrpg", "genre_savvy", "humor", "rec"],
+            "tags": ["litrpg", "genre_savvy", "humor", "rec"]
         },
         "neverland": {
             "name": "The Promised Neverland",
@@ -705,14 +705,14 @@
             "link": "http://www.aaronsw.com/2002/fleep/",
             "q": 3,
             "r": 4,
-            "u": 5,
+            "u": 5
         },
         "girl_genius": {
             "name": "Girl Genius",
             "link": "https://www.girlgeniusonline.com/comic.php?date=20021104#.YMf6w3VKiV4",
             "q": 5,
             "r": 1,
-            "u": 4,
+            "u": 4
         },
         "schlock": {
             "name": "Schlock Mercenary",
@@ -721,7 +721,7 @@
             "q": 3,
             "r": 2,
             "u": 3,
-            "tags": ["humor"],
+            "tags": ["humor"]
         }
     },
     "nonfiction": {
@@ -816,7 +816,7 @@
         "lighting": {
             "name": "Lighting Up the Dark",
             "link": "https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark",
-            "note": "HPMOR-inspired Naruto fanfic, haven't read it.",
+            "note": "HPMOR-inspired Naruto fanfic, haven't read it."
         },
         "marked": {
             "name": "Marked for Death",
