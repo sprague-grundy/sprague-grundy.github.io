@@ -2,11 +2,51 @@
 layout: default
 ---
 
-<h1>Webnovels</h1>
-<table>
+If you enjoy the stories on this website, you might also enjoy these
+recommendations.
+
+<br>
+<br>
+
+★ indicates a particlarly strong recommendation.
+
+<br>
+<br>
+
+<span style="color: #B6DFC3">Q</span> is my subjective impression of
+the writing quality.  3+ means the writing didn't bother me, 4 means
+the writing is a reason to read, 5 means it blew me away.
+
+<br>
+<br>
+
+<span style="color: #8AB2E0">R</span> is a crude measure of the
+/r/rational nature.  3+ means that the writing scratches the rational
+itch, 4 means I think /r/rational would enjoy it more than a normal
+person, 5 means I consider it specifically rationalist fiction.
+
+<br>
+<br>
+
+<span style="color: #F8C2ED">U</span> is how unique the story is.
+Basically, would you be missing out on something important if you
+didn't read it?  3+ means you might regret not reading it, 4 means
+some of its qualities are very hard to find, 5 means there's nothing
+else quite like it.
+
+
+{% assign with_scores = "webnovels novels shorts" | split: " " %}
+{% for section in site.data.recs %}
+{% if with_scores contains section[0] %}
+<h1 style="margin-bottom: -1em">{{ section[0] | capitalize }}</h1>
+{% else %}
+<h1 style="margin-bottom: -0.25em">{{ section[0] | capitalize }}</h1>
+{% endif %}
+<table class="rectable">
   <tr>
     <td></td>
     <td></td>
+    {% if with_scores contains section[0] %}
     <td style="color: #B6DFC3; text-align: center; width=100%">
       Q
     </td>
@@ -16,21 +56,24 @@ layout: default
     <td style="color: #F8C2ED; text-align: center; width=100%">
       U
     </td>
+    {% endif %}
   </tr>
-  {% for post in site.data.recs.webnovels %}
+  {% for post in section[1] %}
     <tr>
-      <td>
+      <td style="line-height: 0.75em">
       {% if post[1].tags contains "rec" %}
       ★
       {% endif %}
       </td>
-      <td style="padding-left: 3px;">
-        <h3 style="display:inline; padding-right: 3px;">
+      <td style="padding-left: 3px; padding-right: 5px; line-height: 0.75em">
+        <span style="display: block; margin-top: 0.5em;"></span>
+        <span style="display:inline; padding-right: 3px; font-size: 20px; font-weight: bold; line-height: 1em;">
           <a href="{{ post[1].link }}">{{ post[1].name }}</a>
-        </h3>
+        </span>
         {% if post[1].tags contains "_forcebreak" %}
-        <br>
+        <span class="fake_br">
         {% endif %}
+        <span style="display:inline-block; line-height: 1em">
         {% for tag in post[1].tags %}
         {% if tag != "rec" and tag != "_forcebreak" %}
         <span class="rectag">
@@ -38,26 +81,35 @@ layout: default
         </span>
         {% endif %}
         {% endfor %}
+        </span>
+
+        {% if post[1] contains "note" %}
         <br>
+        <span class="recnote">
+          ({{ post[1].note }})
+        </span>
+        {% endif %}
+        <span style="padding-right: 10px"></span>
 
       </td>
+      {% if with_scores contains section[0] %}
       <td>
-        <span class="rectag" style="color: #B6DFC3">
-          {{ post[1].q }} / 5
+        <span class="recscore" style="color: #B6DFC3">
+          {{ post[1].q }}/5
         </span>
       </td>
       <td>
-        <span class="rectag" style="color: #8AB2E0">
-          {{ post[1].r }} / 5
+        <span class="recscore" style="color: #8AB2E0">
+          {{ post[1].r }}/5
         </span>
       </td>
       <td>
-        <span class="rectag" style="color: #F8C2ED">
-          {{ post[1].u }} / 5
+        <span class="recscore" style="color: #F8C2ED">
+          {{ post[1].u }}/5
         </span>
       </td>
-
+      {% endif %}
     </tr>
   {% endfor %}
 </table>
-
+{% endfor %}

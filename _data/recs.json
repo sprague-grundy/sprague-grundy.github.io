@@ -76,7 +76,7 @@
             "link": "https://www.royalroad.com/fiction/26534/vainqueur-the-dragon/chapter/391208/1-vainqueur-the-dragon",
             "q": 3,
             "r": 1,
-            "u": 3,
+            "u": 2,
             "tags": ["unfinished", "humor", "litrpg"]
         },
         "vigor_mortis": {
@@ -104,19 +104,19 @@
             "tags": ["unfinished"]
         },
         "aym": {
-            "name": "Arroant Young Master Template A Variation 4",
+            "name": "Arrogant Young Master Template A Variation 4",
             "link": "https://www.royalroad.com/fiction/28601/arrogant-young-master-template-a-variation-4/chapter/428236/1-transmigration",
             "note": "Writing is iffy, plot quality peters out partway through.",
             "q": 2,
             "r": 3,
             "u": 5,
-            "tags": ["unfinished", "humor", "genre_savvy", "_forcebreak"]
+            "tags": ["unfinished", "humor", "genre_savvy"]
         },
         "ptge": {
             "name": "A Practical Guide to Evil",
             "link": "https://practicalguidetoevil.wordpress.com/2015/04/01/chapter-1-knife/",
             "q": 4,
-            "r": 2,
+            "r": 3,
             "u": 4,
             "tags": ["unfinished", "genre_savvy", "rec"]
         },
@@ -124,7 +124,7 @@
             "name": "Dungeon Keeper Ami",
             "link": "https://forums.sufficientvelocity.com/threads/dungeon-keeper-ami-sailor-moon-dungeon-keeper-story-only-thread.30066/",
             "q": 3,
-            "r": 4,
+            "r": 3,
             "u": 4,
             "tags": ["unfinished", "fanfic", "rec", "litrpg"]
         },
@@ -364,7 +364,7 @@
             "link": "https://www.amazon.com/Deepness-Sky-Zones-Thought/dp/0812536355",
             "q": 3,
             "r": 2,
-            "u": 4
+            "u": 3
         },
 
         "snow_crash": {
@@ -735,7 +735,8 @@
         },
         "yud": {
             "name": "Intelligent Characters (Yudkowsky)",
-            "link": "https://yudkowsky.tumblr.com/writing"
+            "link": "https://yudkowsky.tumblr.com/writing",
+            "tags": ["rec"]
         },
         "sanderson": {
             "name": "Sanderson's Laws of Magic",
@@ -760,11 +761,13 @@
         "acx": {
             "name": "Astral Codex Ten",
             "link": "https://astralcodexten.substack.com/",
-            "note": "Older stuff is at https://slatestarcodex.com/ and https://archive.fo/fCFQx ."
+            "note": "Older stuff is at https://slatestarcodex.com/ and https://archive.fo/fCFQx .",
+            "tags": ["rec"]
         },
         "rat": {
             "name": "Rationality: From AI to Zombies",
-            "link": "https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies"
+            "link": "https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies",
+            "tags": ["rec"]
         }
     },
     "unread": {

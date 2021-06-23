@@ -285,9 +285,25 @@ footer {
 
 span.rectag {
     color: #CCCCCC;
+    background-color: #3D3D3D;
     font-size: 13px;
-    border-width: thin;
-    margin: 3px;
+    margin-right: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: inline;
+}
+
+span.recscore {
+    color: #CCCCCC;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+span.recnote {
+    color: #CCCCCC;
+    font-size: 13px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
