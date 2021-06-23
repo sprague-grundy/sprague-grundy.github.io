@@ -44,7 +44,7 @@
             "name": "Pact",
             "link": "https://pactwebserial.wordpress.com/2013/12/17/bonds-1-1/",
             "q": 4,
-            "r": 1,
+            "r": 2,
             "u": 5
         },
         "wtc": {
@@ -378,6 +378,7 @@
         "diamond_age": {
             "name": "The Diamond Age: Or, A Young Lady's Illustrated Primer",
             "link": "https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966",
+            "note": "If you like Snow Crash, you'll probably like this.",
             "q": 4,
             "r": 2,
             "u": 4
@@ -538,7 +539,7 @@
         "metropolitan": {
             "name": "The Metropolitan Man",
             "link": "https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man",
-            "q": 2,
+            "q": 3,
             "r": 5,
             "u": 4,
             "tags": ["fanfic"]
@@ -546,7 +547,15 @@
         "tlc": {
             "name": "The Last Christmas",
             "link": "https://www.fanfiction.net/s/9915682/1/The-Last-Christmas",
-            "q": 2,
+            "q": 3,
+            "r": 5,
+            "u": 4,
+            "tags": ["fanfic"]
+        },
+        "branches": {
+            "name": "Branches on the Tree of Time",
+            "link": "https://www.fanfiction.net/s/9658524/1/Branches-on-the-Tree-of-Time",
+            "q": 3,
             "r": 5,
             "u": 4,
             "tags": ["fanfic"]
@@ -768,6 +777,10 @@
             "name": "Rationality: From AI to Zombies",
             "link": "https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies",
             "tags": ["rec"]
+        },
+        "superint": {
+            "name": "Superintelligence: Paths, Dangers, Strategies",
+            "link": "https://www.goodreads.com/book/show/20527133-superintelligence"
         }
     },
     "unread": {
@@ -900,6 +913,31 @@
             "name": "All Night Laundry",
             "link": "http://www.all-night-laundry.com/post/2",
             "note": "Interactive horror webcomic, haven't read it."
+        },
+        "ndt": {
+            "name": "Never Die Twice",
+            "link": "https://www.royalroad.com/fiction/32067/never-die-twice/chapter/488980/1-the-shopkeeper-is-your-friend",
+            "note": "Webnovel by the author of Vainqueur the dragon, haven't read it."
+        },
+        "tpr": {
+            "name": "The Perfect Run",
+            "link": "https://www.royalroad.com/fiction/36735/the-perfect-run",
+            "note": "Timeloop webnovel by the author of Vainqueur the dragon, the humor didn't really land for me but some people like it."
+        },
+        "pale": {
+            "name": "Pale",
+            "link": "https://palewebserial.wordpress.com/2020/05/05/blood-run-cold-0-0/",
+            "note": "By the same author as Worm, unfinished, haven't read it yet."
+        },
+        "nation": {
+            "name": "Nation",
+            "link": "https://www.amazon.com/Nation-Terry-Pratchett/dp/0061433039",
+            "note": "Terry Pratchett novel, haven't read it but all his stuff is good.  Brassica_Rex on Reddit says it's a good rational YA novel."
+        },
+        "freeze": {
+            "name": "The Freeze-Frame Revolution",
+            "link": "https://www.amazon.com/Freeze-Frame-Revolution-Peter-Watts/dp/1616962526",
+            "note": "Novel, haven't read it."
         }
     }
 }
