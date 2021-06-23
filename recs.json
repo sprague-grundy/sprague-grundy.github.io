@@ -452,6 +452,47 @@
         }
     },
     "shorts": {
+        "envoy": {
+            "name": "Envoy",
+            "link": "https://zalbert.net/shorts/envoy.html",
+            "q": 3,
+            "r": 4,
+            "u": 4,
+            "tags": ["rec"]
+        },
+        "changelings": {
+            "name": "Here's a Story About Changelings",
+            "link": "https://roach-works.tumblr.com/post/187378500711/heres-a-story-about-changelings",
+            "q": 4,
+            "r": 2,
+            "u": 5,
+            "tags": ["rec"]
+        },
+        "wishing": {
+            "name": "The Rules of Wishing",
+            "link": "https://archiveofourown.org/works/4637439/chapters/10575111",
+            "q": 4,
+            "r": 5,
+            "u": 3,
+            "tags": ["fanfic", "rec"]
+        },
+        "tower": {
+            "name": "Tower",
+            "link": "http://alicorn.elcenia.com/stories/tower.shtml",
+            "q": 3,
+            "r": 5,
+            "u": 4,
+            "tags": ["rec"]
+        },
+
+        "hfy": {
+            "name": "Humanity Fuck Yeah stories",
+            "link": "https://www.reddit.com/r/HFY/top/?sort=top&t=all",
+            "q": 3,
+            "r": 2,
+            "u": 5,
+            "tags": ["rec"]
+        },
         "tenure": {
             "name": "Professor Riddle and the Quest for Tenure",
             "link": "https://www.fanfiction.net/s/8706297/1/Professor-Riddle-and-the-Quest-for-Tenure",
@@ -683,6 +724,49 @@
             "tags": ["humor"],
         }
     },
+    "nonfiction": {
+        "list": {
+            "name": "Peter's Evil Overlord List",
+            "link": "http://www.eviloverlord.com/lists/overlord.html"
+        },
+        "dn": {
+            "name": "Death Note: L, Anonymity & Eluding Entropy",
+            "link": "https://www.gwern.net/Death-Note-Anonymity"
+        },
+        "yud": {
+            "name": "Intelligent Characters (Yudkowsky)",
+            "link": "https://yudkowsky.tumblr.com/writing"
+        },
+        "sanderson": {
+            "name": "Sanderson's Laws of Magic",
+            "link": "https://stormlightarchive.fandom.com/wiki/Sanderson%27s_Laws_of_Magic"
+        },
+        "sanderson_youtube": {
+            "name": "Brandon Sanderson on Writing Science Fiction and Fantasy",
+            "link": "https://www.youtube.com/watch?v=-6HOdHEeosc&ab_channel=BrandonSanderson"
+        },
+        "stephenson_essays": {
+            "name": "Some Remarks: Essays and Other Writing (Stephenson)",
+            "link": "https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/0062024434"
+        },
+        "gibson_essays": {
+            "name": "Distrust That Particular Flavor (Gibson)",
+            "link": "https://www.amazon.com/Distrust-Particular-Flavor-William-Gibson/dp/042525299X"
+        },
+        "pg_essays": {
+            "name": "Paul Graham's Essays",
+            "link": "http://www.paulgraham.com/articles.html"
+        },
+        "acx": {
+            "name": "Astral Codex Ten",
+            "link": "https://astralcodexten.substack.com/",
+            "note": "Older stuff is at https://slatestarcodex.com/ and https://archive.fo/fCFQx ."
+        },
+        "rat": {
+            "name": "Rationality: From AI to Zombies",
+            "link": "https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies"
+        }
+    },
     "unread": {
         "tll": {
             "name": "Too Like the Lightning",
@@ -713,46 +797,106 @@
             "name": "The Northern Caves",
             "link": "https://archiveofourown.org/works/3659997/chapters/8088522",
             "note": "I wasn't able to finish it, cool concept but kind of slow."
+        },
+        "doc": {
+            "name": "Fall of Doc Future",
+            "link": "https://docfuture.tumblr.com/post/34751426243/doc-prologue",
+            "note": "Popular webfic, on my to-read list."
+        },
+        "perm": {
+            "name": "Permutation City",
+            "link": "https://www.amazon.com/Permutation-City-Novel-Greg-Egan/dp/1597805394",
+            "note": "Novel, Haven't read it."
+        },
+        "flower": {
+            "name": "The Flower That Bloomed Nowhere",
+            "link": "https://www.royalroad.com/fiction/28806/the-flower-that-bloomed-nowhere/chapter/530698/000-eternity",
+            "note": "Ongoing webfic, on my to-read list."
+        },
+        "lighting": {
+            "name": "Lighting Up the Dark",
+            "link": "https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark",
+            "note": "HPMOR-inspired Naruto fanfic, haven't read it.",
+        },
+        "marked": {
+            "name": "Marked for Death",
+            "link": "https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/#post-4925222",
+            "note": "A rational Naruto quest, haven't read it."
+        },
+        "erogamer": {
+            "name": "The Erogamer",
+            "link": "https://forum.questionablequesting.com/threads/the-erogamer-original.5465/",
+            "note": "An erotic mostly-rational Gamer story.  Extremely popular even among people not interesting in the erotic part.  Tried it but wasn't my thing.  You need an account to read it."
+        },
+        "delve": {
+            "name": "Delve",
+            "link": "https://www.royalroad.com/fiction/25225/delve/chapter/368012/001-woodland",
+            "note": "Popular LitRPG, I got bored and dropped it."
+        },
+        "ring": {
+            "name": "With This Ring",
+            "link": "https://forums.sufficientvelocity.com/threads/with-this-ring-young-justice-si-story-only.25076/#post-5053137",
+            "note": "Young Justice SI fanfic, haven't read it."
+        },
+        "shears": {
+            "name": "Shears",
+            "link": "https://www.fimfiction.net/story/300693/1/shears/bridges-1",
+            "note": "MLP fanfic, haven't read it."
+        },
+        "pith": {
+            "name": "Pith",
+            "link": "https://pithserial.com/2019/05/27/1-a-the-caterpillars-dilemma/",
+            "note": "Good original webfiction, reminds me a bit of Worm.  Dropped it after a few chapters."
+        },
+        "grind": {
+            "name": "The Daily Grind",
+            "link": "https://www.royalroad.com/fiction/15925/the-daily-grind/chapter/184920/chapter-001",
+            "note": "LitRPG, starts a little slow, I dropped it but on my try-to-read-again list."
+        },
+        "accelerando": {
+            "name": "Accelerando",
+            "link": "https://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151",
+            "note": "Popular novel, haven't read it."
+        },
+        "fine": {
+            "name": "Fine Structure",
+            "link": "https://qntm.org/structure",
+            "note": "Webnovel, on my to-read list."
+        },
+        "octo": {
+            "name": "Octo",
+            "link": "https://zalbert.net/octo/1.html",
+            "note": "Webnovel, on my to-read list."
+        },
+        "fp": {
+            "name": "Floating Point",
+            "link": "http://stefangagne.com/floatingpoint/11.html",
+            "note": "Webnovel, haven't read it."
+        },
+        "angles": {
+            "name": "City of Angles",
+            "link": "http://stefangagne.com/cityofangles/angle001.html",
+            "note": "Webnovel, haven't read it"
+        },
+        "puns": {
+            "name": "There is no Epic Loot here, Only Puns",
+            "link": "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185054/1-smashing-start",
+            "note": "Popular webnovel, haven't read it."
+        },
+        "chili": {
+            "name": "Chili and the Chocolate Factory: Fudge Revelation",
+            "link": "https://www.fanfiction.net/s/13451176/1/Chili-and-the-Chocolate-Factory-Fudge-Revelation",
+            "note": "Rationalist fanfic, very popular.  I didn't really understand why it's good, stopped after a few chapters."
+        },
+        "chip": {
+            "name": "Transdimensional Brain Chip",
+            "link": "http://brainchip.thecomicseries.com/",
+            "note": "Webcomic, haven't read it."
+        },
+        "laundry": {
+            "name": "All Night Laundry",
+            "link": "http://www.all-night-laundry.com/post/2",
+            "note": "Interactive horror webcomic, haven't read it."
         }
-    },
-    "unsorted": [
-        "untitled superintelligences story",
-        "HFY stories",
-        "tower (alicorn)",
-        "the p-zombie apocalypse",
-        "that aladdin story about wishes",
-        "heres a story about changelings",
-        "short story by octo guy",
-
-        "evil overlord list", "gwern death note thing", "eliezers thing on rational writing", "brandon sandersons thing on writing / sandersons laws", "distrust that particular flavor", "rationality AI to zombies"
-
-    ]
-    "to_read": [
-        "
-the things
-the fall of doc future
-permutation city
-the flower that bloomed nowhere
-lighting up the dark
-marked for death
-that one porn thing on questionable questing
-finale of the ultimate meta mega crossover
-to the stars
-delve
-with this ring
-shears
-Pith
-the daily grind
-accelerando
-fine structure
-octo
-floating point
-there is no epic loot here only puns
-chili and the chocolate factory"
-
-transdimenisonal brain chip
-all night laundry
-
-"
-    ]
+    }
 }
