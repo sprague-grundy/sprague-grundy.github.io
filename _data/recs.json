@@ -110,7 +110,7 @@
             "q": 2,
             "r": 3,
             "u": 5,
-            "tags": ["unfinished", "humor", "genre_savvy"]
+            "tags": ["unfinished", "humor", "genre_savvy", "_forcebreak"]
         },
         "ptge": {
             "name": "A Practical Guide to Evil",

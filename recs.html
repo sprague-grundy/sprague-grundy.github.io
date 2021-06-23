@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<h1>Webnovels</h1>
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td style="color: #B6DFC3; text-align: center; width=100%">
+      Q
+    </td>
+    <td style="color: #8AB2E0; text-align: center; width=100%">
+      R
+    </td>
+    <td style="color: #F8C2ED; text-align: center; width=100%">
+      U
+    </td>
+  </tr>
+  {% for post in site.data.recs.webnovels %}
+    <tr>
+      <td>
+      {% if post[1].tags contains "rec" %}
+      ★
+      {% endif %}
+      </td>
+      <td style="padding-left: 3px;">
+        <h3 style="display:inline; padding-right: 3px;">
+          <a href="{{ post[1].link }}">{{ post[1].name }}</a>
+        </h3>
+        {% if post[1].tags contains "_forcebreak" %}
+        <br>
+        {% endif %}
+        {% for tag in post[1].tags %}
+        {% if tag != "rec" and tag != "_forcebreak" %}
+        <span class="rectag">
+          {{ tag }}
+        </span>
+        {% endif %}
+        {% endfor %}
+        <br>
+
+      </td>
+      <td>
+        <span class="rectag" style="color: #B6DFC3">
+          {{ post[1].q }} / 5
+        </span>
+      </td>
+      <td>
+        <span class="rectag" style="color: #8AB2E0">
+          {{ post[1].r }} / 5
+        </span>
+      </td>
+      <td>
+        <span class="rectag" style="color: #F8C2ED">
+          {{ post[1].u }} / 5
+        </span>
+      </td>
+
+    </tr>
+  {% endfor %}
+</table>
+
