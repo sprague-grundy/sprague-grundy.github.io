@@ -3,31 +3,104 @@ layout: default
 ---
 
 {% assign crescat_pages = site.pages | where: "layout", "crescat" %}
-{% assign last_index = 0 %}
-{% assign match_index = -1 %}
-{% assign next_index = -1 %}
 <article class="page">
 
+  <div class="navbar globalnav">
+    <h2 class="navbutton">
+      {% if crescat_pages[0].path == page.path %}
+      First
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[0].url }}">First</a>
+      {% endif %}
+    </h2>
+
+    {% assign last_index = 0 %}
+    {% assign match_index = -1 %}
+    {% assign next_index = -1 %}
+    {% for page2 in crescat_pages %}
+    {% if page.path == page2.path %}
+    <h2 class="navbutton localnav">
+      {% if crescat_pages[last_index].path == page.path %}
+      Prev
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[last_index].url }}">Prev</a>
+      {% endif %}
+    </h2>
+    {% assign match_index = forloop.index0 %}
+    {% assign next_index = forloop.index0 %}
+    {% endif %}
+    {% if match_index == last_index %}
+    {% assign next_index = forloop.index0 %}
+    {% endif %}
+    {% assign last_index = forloop.index0 %}
+    {% endfor %}
+    <h2 class="navbutton localnav">
+      {% if crescat_pages[next_index].path == page.path %}
+      Next
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[next_index].url }}">Next</a>
+      {% endif %}
+    </h2>
+
+    <h2 class="navbutton globalnav">
+      {% if crescat_pages[-1].path == page.path %}
+      Latest
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[-1].url }}">Latest</a>
+      {% endif %}
+    </h2>
+  </div>
+
   <h1>{{ page.title }}</h1>
-  <a href="{{ site.baseurl }}{{ crescat_pages[0].url }}">First</a>
-  {% for page2 in crescat_pages %}
-
-  {% if page.path == page2.path %}
-  <a href="{{ site.baseurl }}{{ crescat_pages[last_index].url }}">Prev</a>
-  {% assign match_index = forloop.index0 %}
-  {% assign next_index = forloop.index0 %}
-  {% endif %}
-
-  {% if match_index == last_index %}
-  {% assign next_index = forloop.index0 %}
-  {% endif %}
-
-  {% assign last_index = forloop.index0 %}
-  {% endfor %}
-  <a href="{{ site.baseurl }}{{ crescat_pages[next_index].url }}">Next</a>
-  <a href="{{ site.baseurl }}{{ crescat_pages[-1].url }}">Latest</a>
 
   <div class="entry">
     {{ content }}
   </div>
+
+  <div class="navbar globalnav">
+    <h2 class="navbutton">
+      {% if crescat_pages[0].path == page.path %}
+      First
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[0].url }}">First</a>
+      {% endif %}
+    </h2>
+
+    {% assign last_index = 0 %}
+    {% assign match_index = -1 %}
+    {% assign next_index = -1 %}
+    {% for page2 in crescat_pages %}
+    {% if page.path == page2.path %}
+    <h2 class="navbutton localnav">
+      {% if crescat_pages[last_index].path == page.path %}
+      Prev
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[last_index].url }}">Prev</a>
+      {% endif %}
+    </h2>
+    {% assign match_index = forloop.index0 %}
+    {% assign next_index = forloop.index0 %}
+    {% endif %}
+    {% if match_index == last_index %}
+    {% assign next_index = forloop.index0 %}
+    {% endif %}
+    {% assign last_index = forloop.index0 %}
+    {% endfor %}
+    <h2 class="navbutton localnav">
+      {% if crescat_pages[next_index].path == page.path %}
+      Next
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[next_index].url }}">Next</a>
+      {% endif %}
+    </h2>
+
+    <h2 class="navbutton globalnav">
+      {% if crescat_pages[-1].path == page.path %}
+      Latest
+      {% else %}
+      <a href="{{ site.baseurl }}{{ crescat_pages[-1].url }}">Latest</a>
+      {% endif %}
+    </h2>
+  </div>
+
 </article>

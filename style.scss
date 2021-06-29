@@ -305,6 +305,22 @@ span.recnote {
     font-size: 13px;
 }
 
+h2.navbutton {
+    font-size: 20px;
+    display: inline;
+    margin-right: 2%;
+    margin-left: 2%;
+    color: #BBBBBB;
+}
+
+h2.localnav {
+    font-size: 28px;
+}
+
+div.navbar {
+    text-align: center;
+    width: 100%;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
