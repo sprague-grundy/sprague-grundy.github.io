@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="pages">
+  {% for page in site.pages %}
+  {% if page.name == "0101.md" %}
+  <h1>Part 1</h1>
+  {% endif %}
+  {% if page.layout == "crescat" %}
+    <article class="page">
+      <h2 style="margin-top: -1em;margin-left: 1em;">
+        <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      </h2>
+    </article>
+  {% endif %}
+  {% endfor %}
+</div>

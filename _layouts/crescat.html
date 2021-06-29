@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign crescat_pages = site.pages | where: "layout", "crescat" %}
+{% assign last_index = 0 %}
+{% assign match_index = -1 %}
+{% assign next_index = -1 %}
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+  <a href="{{ site.baseurl }}{{ crescat_pages[0].url }}">First</a>
+  {% for page2 in crescat_pages %}
+
+  {% if page.path == page2.path %}
+  <a href="{{ site.baseurl }}{{ crescat_pages[last_index].url }}">Prev</a>
+  {% assign match_index = forloop.index0 %}
+  {% assign next_index = forloop.index0 %}
+  {% endif %}
+
+  {% if match_index == last_index %}
+  {% assign next_index = forloop.index0 %}
+  {% endif %}
+
+  {% assign last_index = forloop.index0 %}
+  {% endfor %}
+  <a href="{{ site.baseurl }}{{ crescat_pages[next_index].url }}">Next</a>
+  <a href="{{ site.baseurl }}{{ crescat_pages[-1].url }}">Latest</a>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
